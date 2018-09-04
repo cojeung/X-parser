@@ -1,0 +1,24 @@
+<XHTMLFORMAT BACKGROUND="navy" FOREGROUND="yellow" FONT="Courier New" INDENT = "4"> 
+      <FORMAT TOKEN="function">
+            <COLOR>orange</COLOR>
+      </FORMAT>
+      <FORMAT TOKEN="variable">
+            <COLOR>yellow</COLOR>
+      </FORMAT>
+      <FORMAT TOKEN="floatconstant">
+            <COLOR>aqua</COLOR>
+            <STYLE>b</STYLE>
+      </FORMAT>
+      <FORMAT TOKEN="intconstant">
+            <COLOR>aqua</COLOR>
+            <STYLE>b</STYLE>
+      </FORMAT>
+      <FORMAT TOKEN="operator">
+            <COLOR>white</COLOR>
+            <STYLE>b</STYLE>
+      </FORMAT>
+      <FORMAT TOKEN="keyword">
+            <COLOR>white</COLOR>
+            <STYLE>b</STYLE>
+      </FORMAT>
+</XHTMLFORMAT>
